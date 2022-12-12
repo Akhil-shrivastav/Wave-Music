@@ -2,15 +2,15 @@ import { v4 as uuidv4 } from "uuid";
 
 function chillHop(){
     return [
-        {
-            name: "Journey Song",
-            artist: "Anupam Roy,Shreya Ghoshal ",
-            cover: "https://a10.gaanacdn.com/gn_img/albums/ZaP374RWDy/aP37pDX8WD/size_l.webp",
-            id: uuidv4(),
-            active: true,
-            color: ["#BA4A46", "#FDF0DD"],
-            audio: 'https://dns4.vippendu.com/download/128k-dhruv/Journey-Song.mp3'
-        },
+//         {
+//             name: "Journey Song",
+//             artist: "Anupam Roy,Shreya Ghoshal ",
+//             cover: "https://a10.gaanacdn.com/gn_img/albums/ZaP374RWDy/aP37pDX8WD/size_l.webp",
+//             id: uuidv4(),
+//             active: true,
+//             color: ["#BA4A46", "#FDF0DD"],
+//             audio: 'https://dns4.vippendu.com/download/128k-dhruv/Journey-Song.mp3'
+//         },
         {
             name: "Senorita",
             artist: "Farhan Akhtar,Hrithik Roshan,Maria Del Mar Fernandez",
