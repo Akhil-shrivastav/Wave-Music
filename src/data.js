@@ -28,7 +28,7 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#EF8EA9", "#ab417f"],
-            audio: 'https://pwdown.com/12875/Tune%20Mere%20Jana%20-%20Gajendra%20Verma%20320Kbps.mp3'
+            audio: 'https://pwdown.info/12875/Tune%20Mere%20Jana%20-%20Gajendra%20Verma%20320Kbps.mp3'
         },
         {
             name: "Humsafar ",
@@ -38,6 +38,15 @@ function chillHop(){
             active: false,
             color: ["#b94e48", "#bf4f51"],
             audio: 'https://pagalsong.in/uploads/systemuploads/mp3/Badrinath%20Ki%20Dulhania/Humsafar%20(Badrinath%20Ki%20Dulhania)%20128%20Kbps.mp3'
+        },
+        {
+            name: "Agar Tum Saath Ho ",
+            artist: "Alka Yagnik, Arijit Singh",
+            cover: "https://a10.gaanacdn.com/gn_img/albums/10q3ZR1352/0q3ZzPm035/size_l.webp",
+            id: uuidv4(),
+            active: false,
+            color: ["#b94e48", "#bf4f51"],
+            audio: 'https://pwdown.info/9990/03%20Tum%20Saath%20Ho%20-%20Tamasha%20(Arijit%20Singh)%20320Kbps.mp3'
         },
         {
             name: "Tera Ban Jaunga ",
@@ -100,7 +109,7 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#205950", "#2ab3bf"],
-            audio: 'https://pwdown.com/6526/Dope%20Shope%20%20%20Yo%20Yo%20Honey%20Singh%20Ft.%20Deep%20Money.mp3'
+            audio: 'https://pwdown.info/6526/Dope%20Shope%20%20%20Yo%20Yo%20Honey%20Singh%20Ft.%20Deep%20Money.mp3'
         },
         {
             name: "Hawayein ",
@@ -118,7 +127,7 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#EF8EA9", "#ab417f"],
-            audio: 'https://pwdown.com/10173/01%20Sanam%20Re%20(Title%20Song)%20Arijit%20Singh%20190Kbps.mp3'
+            audio: 'https://pwdown.info/10124/01%20Sanam%20Re%20(Title%20Song)%20Arijit%20Singh%20320Kbps.mp3'
         },
         {
             name: "Bol Do Na Zara",
