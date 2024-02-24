@@ -28,7 +28,7 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#EF8EA9", "#ab417f"],
-            audio: 'https://pwdown.info/12875/Tune%20Mere%20Jana%20-%20Gajendra%20Verma%20320Kbps.mp3'
+            audio: 'https://pagalfree.com/musics/128-Tune%20Mere%20Jana%20128%20Kbps.mp3'
         },
         {
             name: "Humsafar ",
