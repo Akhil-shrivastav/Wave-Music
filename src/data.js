@@ -33,11 +33,11 @@ function chillHop(){
         {
             name: "Humsafar ",
             artist: "Akhil Sachdeva",
-            cover: "https://pagalsong.in/uploads//thumbnails/300x300/id3Picture_806670236.jpg",
+            cover: "https://c.saavncdn.com/804/Badrinath-Ki-Dulhania-Full-Hindi-2017-500x500.jpg",
             id: uuidv4(),
             active: false,
             color: ["#b94e48", "#bf4f51"],
-            audio: 'https://pagalsong.in/uploads/systemuploads/mp3/Badrinath%20Ki%20Dulhania/Humsafar%20(Badrinath%20Ki%20Dulhania)%20128%20Kbps.mp3'
+            audio: 'https://pagalfree.com/musics/128-Humsafar-%20Badrinath%20Ki%20Dulhania%20128%20Kbps.mp3'
         },
         {
             name: "Agar Tum Saath Ho ",
