@@ -46,7 +46,7 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#b94e48", "#bf4f51"],
-            audio: 'https://pwdown.info/9990/03%20Tum%20Saath%20Ho%20-%20Tamasha%20(Arijit%20Singh)%20320Kbps.mp3'
+            audio: 'https://pagalfree.com/musics/128-Agar%20Tum%20Saath%20Ho%20-%20Tamasha%20128%20Kbps.mp3'
         },
         {
             name: "Tera Ban Jaunga ",
@@ -55,7 +55,7 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#b94e48", "#bf4f51"],
-            audio: 'https://pagalsong.in/uploads/systemuploads/mp3/Kabir%20Singh/Tera%20Ban%20Jaunga%20-%20Kabir%20Singh%20128%20Kbps.mp3'
+            audio: 'https://pagalfree.com/musics/128-Tera%20Ban%20Jaunga%20-%20Kabir%20Singh%20128%20Kbps.mp3'
         },
         {
             name: "Love Me Like You Do ",
