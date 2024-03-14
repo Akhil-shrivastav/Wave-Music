@@ -100,7 +100,7 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#EF8EA9", "#ab417f"],
-            audio: 'https://pagalsong.in/uploads/systemuploads/mp3/Dil%20Toh%20Baccha%20Hai%20Ji/Abhi%20Kuch%20Dino%20Se.mp3'
+            audio: 'https://pagalfree.com/musics/128-Abhi%20Kuch%20Dino%20Se%20-%20Dil%20Toh%20Baccha%20Hai%20Ji%20128%20Kbps.mp3'
         },
         {
             name: "Dope Shope",
@@ -109,16 +109,16 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#205950", "#2ab3bf"],
-            audio: 'https://pwdown.info/6526/Dope%20Shope%20%20%20Yo%20Yo%20Honey%20Singh%20Ft.%20Deep%20Money.mp3'
+            audio: 'https://pagalfree.com/musics/128-Dope%20Shope%20-%20International%20Villager%20128%20Kbps.mp3'
         },
         {
-            name: "Hawayein ",
-            artist: " Arijit Singh , Pritam",
-            cover: "https://a10.gaanacdn.com/gn_img/song/DwPKOBbqVZ/PKOQYzaqWq/size_l_1516002119.webp",
+            name: "Dildaara ",
+            artist: "Vishal-Shekhar, Shekhar Ravjiani",
+            cover: "https://pagalfree.com/images/128Dildaara%20(Stand%20By%20Me)%20-%20Ra-One%20128%20Kbps.jpg",
             id: uuidv4(),
             active: false,
             color: ["#EF8EA9", "#ab417f"],
-            audio: 'https://pagalsong.in/uploads/systemuploads/mp3/Jab%20Harry%20Met%20Sejal/Hawayein%20(Jab%20Harry%20Met%20Sejal)%20128%20Kbps.mp3'
+            audio: 'https://pagalfree.com/musics/128-Dildaara%20(Stand%20By%20Me)%20-%20Ra-One%20128%20Kbps.mp3'
         },
         {
             name: " Sanam Re ",
@@ -127,7 +127,7 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#EF8EA9", "#ab417f"],
-            audio: 'https://pwdown.info/10124/01%20Sanam%20Re%20(Title%20Song)%20Arijit%20Singh%20320Kbps.mp3'
+            audio: 'https://pagalfree.com/musics/128-Sanam%20Re%20-%20Sanam%20Re%20128%20Kbps.mp3'
         },
         {
             name: "Bol Do Na Zara",
@@ -136,16 +136,16 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#EF8EA9", "#ab417f"],
-            audio: 'https://pagalsong.in/uploads/systemuploads/mp3/Azhar/Bol%20Do%20Na%20Zara.mp3'
+            audio: 'https://pagalfree.com/musics/128-Bol%20Do%20Na%20Zara%20-%20Azhar%20128%20Kbps.mp3'
         },
         {
-            name: "Mera Mann Kehne Laga",
-            artist: "Falak Shabir",
-            cover: "https://c.saavncdn.com/769/Nautanki-Saala-2013-500x500.jpg",
+            name: "Mann Mera",
+            artist: "Gajendra Verma",
+            cover: "https://pagalfree.com/images/128Mann%20Mera%20-%20Table%20No.%2021%20128%20Kbps.jpg",
             id: uuidv4(),
             active: false,
             color: ["#BA4A46", "#FDF0DD"],
-            audio: 'https://pagalsong.in/uploads/systemuploads/mp3/Nautanki%20Saala!/Mera%20Mann%20Kehne%20Laga%20-%20Nautanki%20Saala!%20128%20Kbps.mp3'
+            audio: 'https://pagalfree.com/musics/128-Mann%20Mera%20-%20Table%20No.%2021%20128%20Kbps.mp3'
         },
         {
             name: "Dil Ibaadat",
@@ -163,7 +163,7 @@ function chillHop(){
             id: uuidv4(),
             active: false,
             color: ["#EF8EA9", "#ab417f"],
-            audio: 'https://pagalnew.com/mp3-songs/bollywood-mp3-songs/sooraj-dooba-hain-roy-128-kbps-sound.mp3'
+            audio: 'https://pagalfree.com/musics/128-Sooraj%20Dooba%20Hain%20-%20Roy%20128%20Kbps.mp3'
         },
         {
             name: "Najaa",
